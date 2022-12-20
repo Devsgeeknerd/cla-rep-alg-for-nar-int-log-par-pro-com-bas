@@ -37,4 +37,4 @@ Porém, o ruim é que geralmente cada passo é descrito de maneira muito resumid
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-alg-for-nar-int-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cla-rep-alg-for-nar-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-rep-alg-for-nar-int-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
