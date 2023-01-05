@@ -5,7 +5,9 @@
 
 As formas narrativas usam a língua portuguesa para descrever algoritmos.
 
-Vamos imaginar um algoritmo para comer bolachas, por exemplo. Nós poderíamos o estruturar na seguinte forma narrativa:
+Vamos imaginar um algoritmo para comer bolachas, por exemplo.
+
+Nós poderíamos o estruturar na seguinte forma narrativa:
 
 * Pegar o pacote de bolachas;
 * Abrir a embalagem;
