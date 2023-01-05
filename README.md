@@ -5,9 +5,7 @@
 
 As formas narrativas usam a língua portuguesa para descrever algoritmos.
 
-Vamos imaginar um algoritmo para comer bolachas.
-
-Nós poderíamos estruturar na seguinte forma narrativa:
+Vamos imaginar um algoritmo para comer bolachas, por exemplo. Nós poderíamos o estruturar na seguinte forma narrativa:
 
 * Pegar o pacote de bolachas;
 * Abrir a embalagem;
@@ -23,9 +21,9 @@ Isso por si só já reduz uma série de barreiras com relação ao idioma.
 Porém, o ruim é que geralmente cada passo é descrito de maneira muito resumida, o que reduz a precisão de algoritmos descritos desta forma.
 
 <!-- Informações -->
-## Informações
+## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-for-nar-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-fro-nar-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
 &nbsp;
