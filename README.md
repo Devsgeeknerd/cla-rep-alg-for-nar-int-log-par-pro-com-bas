@@ -25,7 +25,7 @@ Porém, o ruim é que geralmente cada passo é descrito de maneira muito resumid
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-for-nar-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-for-nar-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitante")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
